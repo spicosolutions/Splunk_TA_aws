@@ -1,0 +1,18 @@
+[app/install/install_source_checksum]
+version = 6.6.4
+modtime = 1510448802.616170000
+
+[passwords/credential%3ASpico%20-%20Splunk%3AAKIAIWXZEU2QSE4DNRHQ%3A]
+owner = admin
+version = 6.6.4
+modtime = 1510449219.164419000
+
+[aws_account_ext/Spico%20-%20Splunk]
+owner = admin
+version = 6.6.4
+modtime = 1510449219.190281000
+
+[inputs/aws_sqs_based_s3%3A%2F%2Fspico-cloudtrail]
+owner = admin
+version = 6.6.4
+modtime = 1510449786.485030000
